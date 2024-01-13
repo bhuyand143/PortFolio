@@ -93,7 +93,7 @@ const Hero = () => {
 
       {/* Image Container */}
       <div className="absolute inset-0 flex justify-center items-center mt-[300px]">
-        <img src={mypic} alt="Your Image" className="max-w-full max-h-full sm:max-w-[300px] rounded-full object-center object-cover border-4 border-blue-700" />
+        <img src={mypic} alt="Your Image" className="sm:max-w-full sm:max-h-full xs:max-w-[300px] rounded-full object-center object-cover border-4 border-blue-700" />
       </div>
 
       {/* <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
