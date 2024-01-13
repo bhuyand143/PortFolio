@@ -8,7 +8,7 @@ const SocialMedia = () => {
 
         <div className="app__social">
             <div>
-                <a href="mailto:dbhuyan912@gmail.com"><IoIosMail/></a>
+                <a href="mailto:bhuyand143@gmail.com"><IoIosMail/></a>
             </div>
             <div>
                 <a href="https://www.leetcode.com/bhuyand143"><SiLeetcode /></a>

@@ -40,7 +40,6 @@ const Contact = () => {
       const json = await response.json()
       console.log(json);
       setLoading(false);
-      alert('Thank you! I will get back to you as soon as possible');
       setForm({
         name: '',
         email: '',
