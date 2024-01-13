@@ -27,7 +27,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        I am currently pursuing a Master's in Computer Applications at the National Institute of Technology, Kurukshetra. Coding is my passion, and I have a strong understanding of C++ and Data Structures and Algorithms (DSA). Additionally, I have completed various projects in web development, utilizing technologies such as React.js, Node.js, Bootstrap, Ejs, Express, and MongoDB. I consider myself a fast learner and would be thrilled to collaborate with you on any joint projects.
+        I am currently pursuing a Master's in Computer Applications at the National Institute of Technology, Kurukshetra. Coding is my passion, and I have a strong understanding of C++ and Data Structures and Algorithms (DSA). Additionally, I have completed various projects in web development, utilizing technologies such as React.js, Node.js, Bootstrap, Ejs, Express, and MongoDB. I consider myself a fast learner and would be thrilled to collaborate with you on any joint projects. Below are the skills that align with my passion for software development.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10 '>
             {services.map((service,index)=>(

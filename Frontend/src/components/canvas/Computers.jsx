@@ -2,8 +2,7 @@ import { OrbitControls, Preload, SpotLight, useGLTF } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React, { Suspense, useEffect, useState } from 'react'
 import CanvasLoader from '../Loader'
-import { mypic } from '../../assets'
-import { motion } from 'framer-motion'
+
 const Computers = ({isMobile}) => {
   const computer=useGLTF('./desktop_pc/scene.gltf')
   return (
