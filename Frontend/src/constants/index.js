@@ -111,6 +111,18 @@ import {
       name: "Material UI",
       icon: materalui,
     },
+    {
+      name: "Material UI",
+      icon: materalui,
+    },
+    {
+      name: "Material UI",
+      icon: materalui,
+    },
+    {
+      name: "Material UI",
+      icon: materalui,
+    },
   ];
   
   const education = [

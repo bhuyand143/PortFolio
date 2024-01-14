@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion'
 import React, { useEffect, useRef } from 'react'
 import { styles } from '../style'
-import { ComputersCanvas } from './canvas'
 import Typed from 'typed.js'
 import { mypic } from '../assets'
 
