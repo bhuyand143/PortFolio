@@ -28,16 +28,6 @@ import cplusplus from "./tech/cplusplus.svg"
 import mysql from "./tech/mysql.png"
 import express from "./tech/express.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
-import artivision from './artivision.png'
 import yelpcamp from './yelpcamp2.png'
 import newsapp from './newsapp.png'
 import inotebook from './notebook.png'
@@ -69,13 +59,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   log,
   cplusplus,
   mysql,
@@ -83,7 +66,6 @@ export {
   nitkkr,
   ravenshaw,
   jnv,
-  artivision,
   newsapp,
   yelpcamp,
   inotebook,

@@ -7,20 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "both": "concurrently \"npm run build\" \"node index.cjs\""
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.74.16",
     "@react-three/fiber": "^8.13.3",
-    "concurrently": "^8.2.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
     "framer-motion": "^10.12.16",
     "maath": "^0.6.0",
-    "mongoose": "^8.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
