@@ -43,5 +43,5 @@ mongoose.connect(mongoURI)
 .catch(error=>console.log(error));
 
 app.listen(3000, () => {
-    console.log('App is running at server 3000!');
+    console.log('App is running at  server 3000!');
 })
