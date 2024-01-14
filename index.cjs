@@ -23,7 +23,6 @@ const Mail = mongoose.model('Mail', mailSchema);
 require('dotenv').config();
 
 const mongoURI = process.env.MONGO_URL;
-console.log(mongoURI);
 
 app.post('/sendEmail', async (req, res) => {
     try {
