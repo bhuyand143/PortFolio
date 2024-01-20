@@ -14,7 +14,9 @@ const App = () => {
           </div>
           <About />
           <Educations />
-          <Tech />
+          <section className="hidden lg:block">
+            <Tech />
+          </section>
           <Works />
           {/* <Feedbacks /> */}
           <div className="relative z-0">

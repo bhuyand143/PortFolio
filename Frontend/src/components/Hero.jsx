@@ -23,7 +23,7 @@ const Hero = () => {
     };
     const typed = new Typed(el.current, options);
 
-    // Destropying
+    // Destroying
     return () => {
       typed.destroy();
     };
