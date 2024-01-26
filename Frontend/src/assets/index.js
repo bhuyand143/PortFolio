@@ -31,7 +31,7 @@ import express from "./tech/express.png"
 import yelpcamp from './yelpcamp2.png'
 import newsapp from './newsapp.png'
 import inotebook from './notebook.png'
-import collabtext from './CollabText2.png'
+import collabtext from './CollabText.png'
 
 import jnv from "./edu/jnvlogo.png"
 import nitkkr from "./edu/nitkkrlogo.png"
