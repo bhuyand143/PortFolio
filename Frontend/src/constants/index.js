@@ -21,7 +21,8 @@ import {
     yelpcamp,
     newsapp,
     inotebook,
-    materalui
+    materalui,
+    collabtext
   } from "../assets";
   
   export const navLinks = [
@@ -201,7 +202,7 @@ import {
     {
       name: "News-Monkey",
       description:
-        "Web application that makes it easy for you to explore the most recent headlines and access in-depth articles across various news categories effortlessly.",
+        "Web application that makes it easy for you to explore the most recent headlines & access in-depth articles across various news categories effortlessly.",
       tags: [
         {
           name: "react",
@@ -220,8 +221,8 @@ import {
       source_code_link: "https://github.com/bhuyand143/NewsApp",
     },
     {
-      name: "iNotebook!",
-      description:"Web application that helps users effortlessly organize their thoughts by creating and managing notes, and access it from anywhere, enhancing their productivity.",
+      name: "CollabText",
+      description:"Web application enabling real-time collaboration, anywhere anytime access and prioritizing privacy for convenient collaboration experiences.",
       tags: [
         {
           name: "react",
@@ -232,7 +233,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "express",
+          name: "socket.io",
           color: "pink-text-gradient",
         },
         {
@@ -240,8 +241,8 @@ import {
           color:'orange-text-gradient'
         }
       ],
-      image: inotebook,
-      source_code_link: "https://github.com/bhuyand143/inotebook",
+      image: collabtext,
+      source_code_link: "https://github.com/bhuyand143/RealTimeTextEditor",
     },
   ];
   
